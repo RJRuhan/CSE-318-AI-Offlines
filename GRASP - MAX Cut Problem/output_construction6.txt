@@ -1,0 +1,264 @@
+
+Graph 1 : g32.rud
+nodes : 2000 edges : 4000
+
+Constructing 10 random solutions
+
+Time taken for constructing 10 random solutions is : 37.659746 sec
+best value : 58
+avg value : 6.200000000
+--------------*************--------------
+
+Constructing 10 greedy solutions
+
+Time taken for constructing 10 greedy solutions is : 124.292120971 sec
+best value : 1212
+avg value : 1191.800000000
+--------------*************--------------
+
+Constructing 10 semi-greedy solutions
+alpha = 0.000000000
+
+Time taken for constructing 10 semi-greedy solutions is : 134.744574766 sec
+best value : 1036
+avg value : 1018.800000000
+
+alpha = 0.100000000
+
+Time taken for constructing 10 semi-greedy solutions is : 124.195759255 sec
+best value : 1058
+avg value : 1018.400000000
+
+alpha = 0.200000000
+
+Time taken for constructing 10 semi-greedy solutions is : 126.167057993 sec
+best value : 1052
+avg value : 1011.600000000
+
+alpha = 0.300000000
+
+Time taken for constructing 10 semi-greedy solutions is : 127.889927703 sec
+best value : 1048
+avg value : 1019.000000000
+
+alpha = 0.400000000
+
+Time taken for constructing 10 semi-greedy solutions is : 139.243519555 sec
+best value : 1056
+avg value : 1031.600000000
+
+alpha = 0.500000000
+
+Time taken for constructing 10 semi-greedy solutions is : 177.353862110 sec
+best value : 1048
+avg value : 1023.400000000
+
+alpha = 0.600000000
+
+Time taken for constructing 10 semi-greedy solutions is : 158.962211117 sec
+best value : 1066
+avg value : 1041.200000000
+
+alpha = 0.700000000
+
+Time taken for constructing 10 semi-greedy solutions is : 132.530204378 sec
+best value : 1146
+avg value : 1101.600000000
+
+alpha = 0.800000000
+
+Time taken for constructing 10 semi-greedy solutions is : 132.379364705 sec
+best value : 1162
+avg value : 1130.200000000
+
+alpha = 0.900000000
+
+Time taken for constructing 10 semi-greedy solutions is : 132.817983472 sec
+best value : 1198
+avg value : 1175.400000000
+
+--------------*************--------------
+
+Constructing 10 randomized alpha semi-greedy solutions
+
+Time taken for constructing 10 randomized alpha semi-greedy solutions is : 154.923435831 sec
+best value : 1116
+avg value : 1074.000000000
+--------------*************--------------
+
+
+Graph 1 : g33.rud
+nodes : 2000 edges : 4000
+
+Constructing 10 random solutions
+
+Time taken for constructing 10 random solutions is : 68.723746519 sec
+best value : 30
+avg value : -17.400000000
+--------------*************--------------
+
+Constructing 10 greedy solutions
+
+Time taken for constructing 10 greedy solutions is : 179.459141578 sec
+best value : 1198
+avg value : 1180.200000000
+--------------*************--------------
+
+Constructing 10 semi-greedy solutions
+alpha = 0.000000000
+
+Time taken for constructing 10 semi-greedy solutions is : 173.753946573 sec
+best value : 1010
+avg value : 980.800000000
+
+alpha = 0.100000000
+
+Time taken for constructing 10 semi-greedy solutions is : 174.717056421 sec
+best value : 1010
+avg value : 992.000000000
+
+alpha = 0.200000000
+
+Time taken for constructing 10 semi-greedy solutions is : 166.209742194 sec
+best value : 1014
+avg value : 986.000000000
+
+alpha = 0.300000000
+
+Time taken for constructing 10 semi-greedy solutions is : 166.684521617 sec
+best value : 1016
+avg value : 982.800000000
+
+alpha = 0.400000000
+
+Time taken for constructing 10 semi-greedy solutions is : 159.904861693 sec
+best value : 1030
+avg value : 986.600000000
+
+alpha = 0.500000000
+
+Time taken for constructing 10 semi-greedy solutions is : 205.139626143 sec
+best value : 1024
+avg value : 994.600000000
+
+alpha = 0.600000000
+
+Time taken for constructing 10 semi-greedy solutions is : 189.890117408 sec
+best value : 1086
+avg value : 1036.800000000
+
+alpha = 0.700000000
+
+Time taken for constructing 10 semi-greedy solutions is : 167.074919040 sec
+best value : 1104
+avg value : 1064.800000000
+
+alpha = 0.800000000
+
+Time taken for constructing 10 semi-greedy solutions is : 138.689311897 sec
+best value : 1172
+avg value : 1113.800000000
+
+alpha = 0.900000000
+
+Time taken for constructing 10 semi-greedy solutions is : 138.948551085 sec
+best value : 1200
+avg value : 1160.600000000
+
+--------------*************--------------
+
+Constructing 10 randomized alpha semi-greedy solutions
+
+Time taken for constructing 10 randomized alpha semi-greedy solutions is : 134.542554036 sec
+best value : 1068
+avg value : 1037.600000000
+--------------*************--------------
+
+
+Graph 1 : g34.rud
+nodes : 2000 edges : 4000
+
+Constructing 10 random solutions
+
+Time taken for constructing 10 random solutions is : 42.415709817 sec
+best value : 36
+avg value : -27.600000000
+--------------*************--------------
+
+Constructing 10 greedy solutions
+
+Time taken for constructing 10 greedy solutions is : 140.515449664 sec
+best value : 1188
+avg value : 1175.600000000
+--------------*************--------------
+
+Constructing 10 semi-greedy solutions
+alpha = 0.000000000
+
+Time taken for constructing 10 semi-greedy solutions is : 177.938279033 sec
+best value : 1010
+avg value : 976.000000000
+
+alpha = 0.100000000
+
+Time taken for constructing 10 semi-greedy solutions is : 186.546476185 sec
+best value : 988
+avg value : 970.400000000
+
+alpha = 0.200000000
+
+Time taken for constructing 10 semi-greedy solutions is : 184.938665427 sec
+best value : 1000
+avg value : 960.600000000
+
+alpha = 0.300000000
+
+Time taken for constructing 10 semi-greedy solutions is : 270.271124234 sec
+best value : 1002
+avg value : 972.000000000
+
+alpha = 0.400000000
+
+Time taken for constructing 10 semi-greedy solutions is : 298.553115257 sec
+best value : 1006
+avg value : 982.400000000
+
+alpha = 0.500000000
+
+Time taken for constructing 10 semi-greedy solutions is : 309.569603893 sec
+best value : 1006
+avg value : 990.400000000
+
+alpha = 0.600000000
+
+Time taken for constructing 10 semi-greedy solutions is : 303.074967405 sec
+best value : 1034
+avg value : 1010.200000000
+
+alpha = 0.700000000
+
+Time taken for constructing 10 semi-greedy solutions is : 310.547905612 sec
+best value : 1118
+avg value : 1069.800000000
+
+alpha = 0.800000000
+
+Time taken for constructing 10 semi-greedy solutions is : 297.917592435 sec
+best value : 1180
+avg value : 1133.400000000
+
+alpha = 0.900000000
+
+Time taken for constructing 10 semi-greedy solutions is : 231.812776487 sec
+best value : 1180
+avg value : 1149.400000000
+
+--------------*************--------------
+
+Constructing 10 randomized alpha semi-greedy solutions
+
+Time taken for constructing 10 randomized alpha semi-greedy solutions is : 150.811191285 sec
+best value : 1054
+avg value : 1031.200000000
+--------------*************--------------
+
