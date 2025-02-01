@@ -1,4 +1,4 @@
-# CSE-318---Artificial-Intelligence-Sessional
+# AI Sessional
 
 - This is the repository for the course CSE 318: Artificial Intelligence Sessional at Bangladesh University of Engineering and Technology (BUET). 
 - The course is designed to cover the following topics:
